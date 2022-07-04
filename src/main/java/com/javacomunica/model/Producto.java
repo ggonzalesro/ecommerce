@@ -107,4 +107,6 @@ public class Producto {
 				+ ", precio=" + precio + ", cantidad=" + cantidad + ", usuario=" + usuario + "]";
 	}
 
+	
+
 }
